@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "757938837140",
+    "project_id": "yumm-food-app-2024",
+    "storage_bucket": "yumm-food-app-2024.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757938837140:android:cf3908515dc36055888681",
+        "android_client_info": {
+          "package_name": "com.example.yumm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUicBcFyUxF58U23DcI-mJASnbfyJWctY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
